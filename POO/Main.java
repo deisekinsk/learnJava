@@ -4,7 +4,7 @@ package estudopoo;
  *
  * @author Deise Kinsk
  */
-public class chamaCarro {
+public class Main {
     //main executa sozinha
     
     public static void main (String[] args){
