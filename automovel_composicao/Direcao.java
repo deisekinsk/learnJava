@@ -6,6 +6,8 @@ package automovel;
  */
 public class Direcao {
     private String cor;
+   
+    //metodos get/set
     public String getCor(){
         return this.cor;
     }
