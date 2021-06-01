@@ -9,10 +9,13 @@ package herancaexe01;
  *
  * @author Deise Kinsk
  */
-public class C1 {
+public class C3 extends C2 {
+    
       public void imprime() {
 
-         System.out.println("Construtor C1");
+         super.imprime();
+
+         System.out.println("Construtor C3"); 
 
      }
     

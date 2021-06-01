@@ -9,10 +9,12 @@ package herancaexe01;
  *
  * @author Deise Kinsk
  */
-public class C1 {
-      public void imprime() {
+public class C4Object {
+       public static void main(String[] args) {
 
-         System.out.println("Construtor C1");
+         C3 ex = new C3();
+
+         ex.imprime();
 
      }
     
