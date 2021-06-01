@@ -9,11 +9,10 @@ package herancaexe02;
  *
  * @author Deise Kinsk
  */
-public class A {
-        public A() {
+public class B extends A {
+      public B() {
 
-         System.out.println("Construtor A");
+         System.out.println("Construtor B");  
 
      }
-    
 }
